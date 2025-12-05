@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset ="usf 8">
+<meta name="viewport"content="width=device width, initial-scale=1">
+
+<link rel= "style sheet" href=
+https://getbootstrap.com>
+
+<title>Fluid container</title>
+</head>
+<body>
+
+  <div class="container bg-sucsess  text-white">
+       <h1> My first Bootstrap page </h1> 
+        <p> This part is inside a .fluid container-fluid class </p>
+        <div>hi</div>
+  </div>
+                <div class="container bg-sucsess  text-white">
+   <h1> My first Bootstrap page </h1> 
+<p> This is some text</p>
+            </div>
+            </body>
+            </html>
